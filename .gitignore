@@ -1,0 +1,15 @@
+# Dependencias
+node_modules/
+
+# Credenciales de MongoDB
+.env
+.env.*
+!.env.example
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+.vscode/
+.DS_Store
+Thumbs.db
